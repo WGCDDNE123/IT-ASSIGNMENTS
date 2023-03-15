@@ -1,0 +1,8 @@
+C:\Users\My PC\source\repos\FIRST PROJECT FOLDER EVER\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\My PC\source\repos\FIRST PROJECT FOLDER EVER\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\My PC\source\repos\FIRST PROJECT FOLDER EVER\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\My PC\source\repos\FIRST PROJECT FOLDER EVER\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\FIRST PROJECT FOLDER EVER\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\My PC\source\repos\FIRST PROJECT FOLDER EVER\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\FIRST PROJECT FOLDER EVER\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\My PC\source\repos\FIRST PROJECT FOLDER EVER\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
