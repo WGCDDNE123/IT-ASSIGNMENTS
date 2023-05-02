@@ -1,0 +1,8 @@
+C:\Users\My PC\source\repos\SeriousTime\bin\Debug\SeriousTime.exe.config
+C:\Users\My PC\source\repos\SeriousTime\bin\Debug\SeriousTime.exe
+C:\Users\My PC\source\repos\SeriousTime\bin\Debug\SeriousTime.pdb
+C:\Users\My PC\source\repos\SeriousTime\obj\Debug\SeriousTime.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\SeriousTime\obj\Debug\SeriousTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\My PC\source\repos\SeriousTime\obj\Debug\SeriousTime.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\SeriousTime\obj\Debug\SeriousTime.exe
+C:\Users\My PC\source\repos\SeriousTime\obj\Debug\SeriousTime.pdb
